@@ -1,0 +1,9 @@
+E:\workfiles\Blazor\BlazorPlayground\BlazorPlayground.Shared\bin\Debug\netstandard2.0\BlazorPlayground.Shared.deps.json
+E:\workfiles\Blazor\BlazorPlayground\BlazorPlayground.Shared\bin\Debug\netstandard2.0\BlazorPlayground.Shared.dll
+E:\workfiles\Blazor\BlazorPlayground\BlazorPlayground.Shared\bin\Debug\netstandard2.0\BlazorPlayground.Shared.pdb
+E:\workfiles\Blazor\BlazorPlayground\BlazorPlayground.Shared\obj\Debug\netstandard2.0\BlazorPlayground.Shared.csprojAssemblyReference.cache
+E:\workfiles\Blazor\BlazorPlayground\BlazorPlayground.Shared\obj\Debug\netstandard2.0\BlazorPlayground.Shared.csproj.CoreCompileInputs.cache
+E:\workfiles\Blazor\BlazorPlayground\BlazorPlayground.Shared\obj\Debug\netstandard2.0\BlazorPlayground.Shared.AssemblyInfoInputs.cache
+E:\workfiles\Blazor\BlazorPlayground\BlazorPlayground.Shared\obj\Debug\netstandard2.0\BlazorPlayground.Shared.AssemblyInfo.cs
+E:\workfiles\Blazor\BlazorPlayground\BlazorPlayground.Shared\obj\Debug\netstandard2.0\BlazorPlayground.Shared.dll
+E:\workfiles\Blazor\BlazorPlayground\BlazorPlayground.Shared\obj\Debug\netstandard2.0\BlazorPlayground.Shared.pdb
